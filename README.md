@@ -2,4 +2,9 @@
 first github repository  for test
 
 
-this readme is test
+this  is test
+
+hi guys 
+i am a new githuber
+
+huber haha
